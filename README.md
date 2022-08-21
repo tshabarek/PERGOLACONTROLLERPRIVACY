@@ -1,2 +1,2 @@
-# PERGOLACONTROLLERPRIVACY
-Privacy data for pergola controller app
+# learn turkish privacy
+Privacy data for learn turkish privacy app
